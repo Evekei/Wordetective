@@ -1,0 +1,16 @@
+[
+  "app/core/config.py",
+  "app/db/models.py",
+  "app/db/session.py",
+  "app/detection/compliance_rules.py",
+  "app/detection/context_checker.py",
+  "app/detection/engine.py",
+  "app/detection/highlighter.py",
+  "app/detection/preprocessing.py",
+  "app/detection/rewrite.py",
+  "app/detection/scorer.py",
+  "app/schemas/detection.py",
+  "app/utils/file_loader.py",
+  "data/rules/replacement_templates.csv",
+  "data/sqlite/rules.db"
+]
